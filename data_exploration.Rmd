@@ -1,7 +1,8 @@
 ---
 title: "DataExploration"
 author: "WingYan Lee"
-output: html_document
+output:
+  pdf_document: default
 ---
 
 ```{r setup, message = FALSE, echo=FALSE}
